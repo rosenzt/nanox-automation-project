@@ -4,7 +4,7 @@ import Common.User;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import jakarta.inject.Inject;
+import javax.inject.Inject;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import pages.DemoblazeSignUpAndLogInPage;
